@@ -10,6 +10,10 @@ a h3, h4, button{
     font-family: 'Kanit', sans-serif; 
 }
 
+/* img{
+    border-top-left-radius: 0.5rem/* 8px */;
+    border-top-right-radius: 0.5rem/* 8px */;
+} */
 /* 
 font-family: 'Archivo Narrow', sans-serif;
 font-family: 'Julius Sans One', sans-serif;
