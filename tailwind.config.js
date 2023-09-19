@@ -6,10 +6,15 @@ module.exports = {
       sm: "480px",
       md: "768px",
       lg: "976px",
-      xl: "1140px"
+      xl: "1440px"
     },
-    extend: {},
+    extend: {
+      colors:{
+        blue: "#73c8e2",
+        green: "#a0eed2",
+        gray: "#454545"
+      }
   },
   plugins: [],
 }
-
+}
