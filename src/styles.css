@@ -6,14 +6,10 @@ h2{
     font-family: 'Archivo Narrow', sans-serif;
 }
 
-a h3, h4, button{
+a, h3, h4, button, li{
     font-family: 'Kanit', sans-serif; 
 }
 
-/* img{
-    border-top-left-radius: 0.5rem/* 8px */;
-    border-top-right-radius: 0.5rem/* 8px */;
-} */
 /* 
 font-family: 'Archivo Narrow', sans-serif;
 font-family: 'Julius Sans One', sans-serif;
